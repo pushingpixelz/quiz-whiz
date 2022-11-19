@@ -1,0 +1,32 @@
+*{
+margin: 0;
+    padding: 0;
+}
+
+body{
+
+
+}
+.container{
+display:  flex;
+justify-content: center;
+margin-top: 50px;
+margin-bottom: 15px;
+font-size: 30px;
+padding: 30px;
+}
+
+h1{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+
+}
+
+.button{
+display: flex;
+text-align: center;
+margin-left: 100px;
+
+}
